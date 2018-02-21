@@ -5,11 +5,11 @@ one:
   address: MyString
   phone_number: MyString
   category: MyString
-  rating: 1
+  reviews: 1
 
 two:
   name: MyString
   address: MyString
   phone_number: MyString
   category: MyString
-  rating: 1
+  reviews: 1
